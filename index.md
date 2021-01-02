@@ -6,6 +6,7 @@
         <title>
 
         </title>
+        <link href="styles/style.css" rel="stylesheet">
     </head>
     <body>
         <h1>Easy Hummus Recipe</h1>
@@ -17,6 +18,6 @@
             the mixture to cool, then put a cup or so into a food
             processor and blend into <em>easy</em> Hummus!
         </p>
-        <img src="https://www.walmart.com/ip/2-Pack-Faraon-Garbanzos-16-oz/851711838"> 
+        <img src="images/hummus.png"> 
     </body>
 </html>
