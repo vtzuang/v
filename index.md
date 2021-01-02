@@ -3,9 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>
-
-        </title>
+        <title>The Hummus Page</title>
         <link href="styles/style.css" rel="stylesheet">
     </head>
     <body>
