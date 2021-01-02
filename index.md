@@ -17,6 +17,6 @@
             the mixture to cool, then put a cup or so into a food
             processor and blend into <em>easy</em> Hummus!
         </p>
-        <img src="https://www.walmart.com/ip/2-Pack-Faraon-Garbanzos-16-oz/851711838" title="Walmart Garbanzos"> 
-    </body.
+        <img src="https://www.walmart.com/ip/2-Pack-Faraon-Garbanzos-16-oz/851711838"> 
+    </body>
 </html>
