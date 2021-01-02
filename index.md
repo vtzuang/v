@@ -1,9 +1,22 @@
-<html>
-  <header>
-  </header>
-  <body>
-  <h1>Hello world!</h1>
   
-  </body>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>
 
+        </title>
+    </head>
+    <body>
+        <h1>Easy Hummus Recipe</h1>
+        <p>Making hummus in an Instapot is <strong>incredibly easy</strong>. 
+            Simply dump a pound of <a href="https://www.walmart.com/ip/2-Pack-Faraon-Garbanzos-16-oz/851711838" title="Walmart Garbanzos" target="_blank">garbanzo beans</a> in the Instapot,
+            add water, then add pumpkin, tomato sauce, and spices.
+            Make sure to not stir the pot and allow it to cook as is.
+            Once the "Beans" setting on the Instapot is done, allow 
+            the mixture to cool, then put a cup or so into a food
+            processor and blend into <em>easy</em> Hummus!
+        </p>
+        <img src="https://www.walmart.com/ip/2-Pack-Faraon-Garbanzos-16-oz/851711838" title="Walmart Garbanzos"> 
+    </body.
 </html>
